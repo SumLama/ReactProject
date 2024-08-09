@@ -1,4 +1,4 @@
-Login Page in React
+#Login Page in React 
 This project is a simple and functional login page created using React and TypeScript.
 It includes fields for entering a username and password, a "Login" button to submit the user credentials, and validation for both fields. 
 The application communicates with an API endpoint to authenticate user credentials. 
@@ -12,8 +12,8 @@ Step 1: Clone the Repository
 step 2 : Change project directory
 * cd task
 
-Step 3: Install all the  Dependencies\n
-*//To install all the dependencies\n
+Step 3: Install all the  Dependencies
+*//To install all the dependencies
 *npm install
 
 Step 4: Start the Development Server
