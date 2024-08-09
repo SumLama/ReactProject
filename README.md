@@ -13,8 +13,9 @@ step 2 : Change project directory
 * cd task
 
 Step 3: Install all the  Dependencies\n
-//To install all the dependencies\n
-npm install
+*//To install all the dependencies\n
+*npm install
 
 Step 4: Start the Development Server
-npm start or yarn start
+*npm start or 
+*yarn start
