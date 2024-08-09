@@ -7,13 +7,13 @@ On successful authentication, users are redirected to a welcome page. If the cre
 Ensure node.js and npm are installed already.
 
 Step 1: Clone the Repository
-git clone https://github.com/SumLama/ReactProject.git
+* git clone https://github.com/SumLama/ReactProject.git
 
 step 2 : Change project directory
-cd task
+* cd task
 
-Step 3: Install all the  Dependencies
-//To install all the dependencies
+Step 3: Install all the  Dependencies\n
+//To install all the dependencies\n
 npm install
 
 Step 4: Start the Development Server
