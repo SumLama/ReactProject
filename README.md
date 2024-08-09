@@ -4,7 +4,8 @@ It includes fields for entering a username and password, a "Login" button to sub
 The application communicates with an API endpoint to authenticate user credentials. 
 On successful authentication, users are redirected to a welcome page. If the credentials are incorrect or if there are errors, appropriate messages are displayed to the user. 
 
-# Ensure node.js and npm are installed already.
+# Installation
+ Ensure node.js and npm are installed already.
 
 Step 1: Clone the Repository
 * git clone https://github.com/SumLama/ReactProject.git
@@ -13,9 +14,8 @@ step 2 : Change project directory
 * cd task
 
 Step 3: Install all the  Dependencies
-*//To install all the dependencies
-*npm install
+* npm install
 
 Step 4: Start the Development Server
-*npm start or 
-*yarn start
+* npm start or 
+* yarn start
